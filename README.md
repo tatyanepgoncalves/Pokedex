@@ -24,6 +24,10 @@ Load More - Carregar Mais Tipos: Ao clicar no botão "Load More", mais tipos de 
 
 - **Live-Server**: Para executar o projeto, será necessário um servidor HTTP local. 
 
+## Links 🔗
+- [Link do deploy](https://pokedex-dio-project.vercel.app/)
+- [Link do código](https://github.com/tatyanepgoncalves/Pokedex)
+
 ##  Autores 👷
 
 - **Tatyane Gonçalve** - *Desenvolvedora* - [@tatyanepgoncalves](https://github.com/tatyanepgoncalves)
