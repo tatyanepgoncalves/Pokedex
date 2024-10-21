@@ -3,6 +3,8 @@
   Pokedex (Listagem de Pokemon)
 </h1>
 
+<img src="./src/images/preview.png" alt="Image do projeto Pokedex disponpível em um notebook">
+
 # Introdução 🔥
 Esse é um projeto desenvolvido de uma Pokedex durante o Bootcamp *Ri Happy - Front-end do Zero* da empresa DIO (Digital Innovation One). O projeto consiste em uma aplicação web que exibe informações sobre diferentes pokémons, permitindo aos usuários explorar suas características, tipos, habilidades e mais. Para executar o projeto, será necessário configurar um servidor HTTP local.
 
