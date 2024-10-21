@@ -12,15 +12,15 @@ Lista de Pokémons: A aplicação exibe uma lista de pokémons com suas imagens 
 Load More - Carregar Mais Tipos: Ao clicar no botão "Load More", mais tipos de pokémons serão carregados e exibidos na lista. Esta funcionalidade permite aos usuários explorar diferentes tipos de pokémons.
 
 # Tecnologias Utilizadas 📦
-HTML: A estrutura básica da aplicação foi desenvolvida utilizando HTML.
+- **HTML**: A estrutura básica da aplicação foi desenvolvida utilizando HTML.
 
-CSS: O estilo visual da aplicação foi implementado com CSS, garantindo um layout agradável e responsivo.
+- **CSS**: O estilo visual da aplicação foi implementado com CSS, garantindo um layout agradável e responsivo.
 
-JavaScript: A interatividade da aplicação foi construída com JavaScript. A manipulação do DOM permite atualizar as informações exibidas e melhorar a experiência do usuário.
+- **JavaScript**: A interatividade da aplicação foi construída com JavaScript. A manipulação do DOM permite atualizar as informações exibidas e melhorar a experiência do usuário.
 
-Fonte de Dados: As informações dos pokémons foram obtidas de uma API pública, que fornece detalhes como nome, número da pokédex, tipos, habilidades e imagens.
+- **Fonte de Dados**: As informações dos pokémons foram obtidas de uma API pública, que fornece detalhes como nome, número da pokédex, tipos, habilidades e imagens.
 
-HTTP-Server: Para executar o projeto, será necessário um servidor HTTP local. Utilize o http-server para isso.
+- **Live-Server**: Para executar o projeto, será necessário um servidor HTTP local. 
 
 ##  Autores 👷
 
